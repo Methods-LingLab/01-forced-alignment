@@ -1,0 +1,14 @@
+--input : /tmp/7452_1645460027_mausbpf2emuR/gne_emuDB
+--output : /tmp/7452_1645460027_mausbpf2emuR/gne_emuDB/FormantAnalysis
+--sounds : {,i:,O:,V,U
+--emuExpr : 
+--gender : m
+--outlierMetric : euclid
+--outlierThreshold : 250
+--midpoint : FALSE
+--eRatio : FALSE
+--saveTracks : true
+--verbosity : 0
+--help : FALSE
+--version : FALSE
+Automatic gender detection result: m

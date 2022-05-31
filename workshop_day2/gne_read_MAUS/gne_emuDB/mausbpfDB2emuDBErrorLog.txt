@@ -1,0 +1,8 @@
+# mausbpfDB2emuDB error/warning log
+#
+# This file contains errors, warnings or a list of skipped files that were reported
+# during the conversion of the BAS WebService results into an EMU-SDMS database.
+# If there are no lines except ones starting with '#', then no error occurred.
+#
+# Call: /usr/local/bin/mausbpfDB2emuRDB force=1 validate=1 emuRDBname=gne OUTZIP=/var/lib/tomcat8/webapps/BASWebServices##3.9///data/2022.02.21_17.13.46_716BE07B04B0866E6BEB857F343452AE/results-2022-02-21_17-13-46.zip doFormantAnalysis=true sounds="{,i:,O:,V,U" gender=male midpoint=false computeERatio=false outlierMetric=euclid outlierThreshold=250 /var/lib/tomcat8/webapps/BASWebServices##3.9//data//2022.02.21_17.13.46_716BE07B04B0866E6BEB857F343452AE
+#

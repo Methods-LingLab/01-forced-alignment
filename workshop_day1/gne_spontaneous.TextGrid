@@ -1,0 +1,55 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 47.66433106575964 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "sentence" 
+        xmin = 0 
+        xmax = 47.66433106575964 
+        intervals: size = 10 
+        intervals [1]:
+            xmin = 0 
+            xmax = 6.642682620551093 
+            text = "ok um it its a kitchen and there are four people two kids" 
+        intervals [2]:
+            xmin = 6.642682620551093 
+            xmax = 12.22399361366246 
+            text = "at the sink in a separate room um one person sat down putting like" 
+        intervals [3]:
+            xmin = 12.22399361366246 
+            xmax = 16.970305324339844 
+            text = "carton milk into a bag um somebody is washing up" 
+        intervals [4]:
+            xmin = 16.970305324339844 
+            xmax = 19.343461179678535 
+            text = "the time is eight o clock" 
+        intervals [5]:
+            xmin = 19.343461179678535 
+            xmax = 24.7050355195178 
+            text = "um the fridge door is open there is cheese eggs um" 
+        intervals [6]:
+            xmin = 24.7050355195178 
+            xmax = 26.726612729621127 
+            text = "chicken inside" 
+        intervals [7]:
+            xmin = 26.726612729621127 
+            xmax = 31.640816638562 
+            text = "um on the kitchen worktop there is a fish and bread and fruit" 
+        intervals [8]:
+            xmin = 31.640816638562 
+            xmax = 38.483569023273056 
+            text = "
+um the floor is the tiled the a" 
+        intervals [9]:
+            xmin = 38.483569023273056 
+            xmax = 43.30142529414105 
+            text = "the curtains have a check pattern on them" 
+        intervals [10]:
+            xmin = 43.30142529414105 
+            xmax = 47.66433106575964 
+            text = "" 
